@@ -6,6 +6,7 @@ Using data from Taarifa and the Tanzanian Ministry of Water,  Predict one of the
 
 Goal is to predict the operating condition of a waterpoint for each record in the dataset. provided the following set of information about the waterpoints:
 
+
 Features
 
 •	amount_tsh - Total static head (amount water available to waterpoint)
